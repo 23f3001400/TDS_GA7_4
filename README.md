@@ -35,7 +35,7 @@ This project demonstrates comprehensive correlation analysis and visualization f
 - **Selection**: Applied to correlation values only (excluding labels)
 
 ### 3. Export and Documentation
-- **Screenshot**: Captured heatmap at 400x400 to 512x512 pixel dimensions
+- **Screenshot**: Captured heatmap at 400x400 pixel dimensions
 - **CSV Export**: Correlation matrix values exported for programmatic access
 - **Repository**: Organized with proper file structure and documentation
 
@@ -80,7 +80,7 @@ Based on the generated correlation matrix:
 
 - **Excel Version**: Compatible with Excel 2016+ (Data Analysis ToolPak required)
 - **Image Format**: PNG format for web compatibility
-- **Image Dimensions**: 400x400 to 512x512 pixels as specified
+- **Image Dimensions**: 400x400 pixels as specified
 - **Data Format**: CSV with proper headers and numeric precision
 
 ## Repository Validation
@@ -90,7 +90,7 @@ This repository contains all required elements:
 1. ✅ **README.md** - Contains author email (22f1000662@ds.study.iitm.ac.in)
 2. ✅ **correlation.csv** - Proper correlation matrix with all relationships
 3. ✅ **heatmap.png** - Excel conditional formatting screenshot
-4. ✅ **Image Dimensions** - Proper sizing (400x400 to 512x512 pixels)
+4. ✅ **Image Dimensions** - Proper sizing (400x400 pixels)
 
 ## Usage Instructions
 
